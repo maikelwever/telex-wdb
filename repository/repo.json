@@ -1,0 +1,9 @@
+{
+    "name": "Wdb",
+    "description": "Triggers python wdb debugger",
+    "version": "1.0",
+    "default_enable": ["Wdb"],
+    "homepage": "https://github.com/maikelwever/telex-wdb",
+    "repo": "https://github.com/maikelwever/telex-wdb.git",
+    "branch": "master"
+}

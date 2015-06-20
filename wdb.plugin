@@ -1,0 +1,9 @@
+[Core]
+Name = Wdb
+Module = wdb
+
+[Documentation]
+Author = Maikel Wever
+Version = 1.0
+Website = https://github.com/maikelwever/telex-wdb
+Description = Triggers python wdb debugger
